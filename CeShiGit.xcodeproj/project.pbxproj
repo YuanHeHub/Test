@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		64B0715D2449A031000A10E4 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64B0715C2449A031000A10E4 /* FirstViewController.m */; };
 		64F7C75B244990E100FDBCCE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F7C75A244990E100FDBCCE /* AppDelegate.m */; };
 		64F7C75E244990E100FDBCCE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F7C75D244990E100FDBCCE /* ViewController.m */; };
 		64F7C761244990E100FDBCCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64F7C75F244990E100FDBCCE /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		64B0715B2449A031000A10E4 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		64B0715C2449A031000A10E4 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		64F7C756244990E100FDBCCE /* CeShiGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CeShiGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64F7C759244990E100FDBCCE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		64F7C75A244990E100FDBCCE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				64F7C75A244990E100FDBCCE /* AppDelegate.m */,
 				64F7C75C244990E100FDBCCE /* ViewController.h */,
 				64F7C75D244990E100FDBCCE /* ViewController.m */,
+				64B0715B2449A031000A10E4 /* FirstViewController.h */,
+				64B0715C2449A031000A10E4 /* FirstViewController.m */,
 				64F7C75F244990E100FDBCCE /* Main.storyboard */,
 				64F7C762244990E100FDBCCE /* Assets.xcassets */,
 				64F7C764244990E100FDBCCE /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				64F7C75E244990E100FDBCCE /* ViewController.m in Sources */,
 				64F7C769244990E100FDBCCE /* main.m in Sources */,
 				64F7C75B244990E100FDBCCE /* AppDelegate.m in Sources */,
+				64B0715D2449A031000A10E4 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
